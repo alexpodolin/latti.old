@@ -1,0 +1,53 @@
+<h1>Круизы и туры на Валаам,&nbsp;Кижи&nbsp;из Санкт-Петербурга</h1>
+
+<div class="main">
+	<div class="maintext">Мы продаем круизы и туры для индивидуальных туристов и организованных групп с 1995 года. Наша компания любит и&nbsp;знает острова Валаам и Кижи и&nbsp;обладает возможностями предложить своим клиентам <a class="self" href="#valaam-turi">разнообразные программы</a>.</div>
+
+	<div class="cruise-info"><span><a href="http://www.latti.ru/valaaminfo.html">Валаам инфо</a><br />
+	<a href="http://www.latti.ru/kiji.html">Кижи инфо</a></span></div>
+
+	<div class="content">
+		<div class="first-column">
+			<div class="first-col-img"><img src="http://www.latti.ru/img/valaam-kigi/valaam_tur.jpg" /></div>
+			<div class="tel-img"><img src="http://latti.ru/images/vibor/tel.jpg" />
+			<p>(812) 315-06-87</p>
+			</div>
+			<span>Информация о наличии мест и стоимости:<br />
+			Пн &ndash; Пт: с 11:00 до 19:00</span>
+		</div>
+
+		<div class="second-column"><strong>Водно-пешеходные туры с посещением Валаама, Кижей, Соловков:</strong>
+
+		<div class="case"><img src="http://latti.ru/images/vibor/case1.jpg" /><a href="http://www.latti.ru/valaam_priozersk.html"><big>Валаамский экспромт (на 1 день)</big></a>
+		<p>Круиз на Валаам на 1 день через Приозерск.<br />
+		Стоимость: <span class="bg-blue">от 5400 руб.</span> на чел.</p>
+		</div>
+
+		<div class="case"><img src="http://latti.ru/images/vibor/case2.jpg" /><a href="http://www.latti.ru/valaam_mnturi.html"><big>Многодневные туры на Валаам</big></a>
+		<p>Туры на Валаам с проживанием в гостинице &laquo;Зимняя&raquo;. От трех дней.<br />
+		Стоимость: <span class="bg-blue">от 11 950 руб.</span> на чел.</p>
+		</div>
+
+		<div class="case"><img src="http://latti.ru/images/vibor/case3.jpg" /><a href="http://www.latti.ru/novyiy-valaam.html"><big>Тур &laquo;Новый Валаам&raquo;</big></a>
+
+		<p>Тур на 2 дня. Новый Валаам - Миккели - Савонлинна.</p>
+		</div>
+
+		<div class="case"><img src="http://latti.ru/images/vibor/case4.jpg" /><a href="http://www.latti.ru/solovki.html"><big>Туры на Соловки. Соловки+Карелия</big></a>
+		<p>Большой выбор туров продолжительностью от 4х дней<br />
+		Стоимость: <span class="bg-blue">от 13 400 руб.</span> на чел.</p>
+		</div>
+
+		<div class="third-column">
+			<strong>Полный перечень теплоходов, осуществляющих круизы на Валаам:</strong> 
+			<span><a href="http://www.latti.ru/sholohov.html">Михаил Шолохов</a></span> 
+			<span><a href="http://www.latti.ru/sholohov.html">Карл Маркс</a></span> 
+			<span><a href="http://www.latti.ru/sholohov.html">Попов</a></span> 
+			<span><a href="http://www.latti.ru/sholohov.html">Белинский</a></span> 
+			<span><a href="http://www.latti.ru/sholohov.html">Санкт-Петербург</a></span> 
+			<span><a href="http://www.latti.ru/sholohov.html">Леонид Соболев</a></span> 
+			<span><a href="http://www.latti.ru/sholohov.html">Кронштадт</a></span> 
+			<strong id="solovki-bottom">Круизы на Соловки</strong> Теплоход с расписанием и ценами: <span><a href="http://www.latti.ru/sholohov.html">Русь Великая</a></span>
+		</div>
+	</div>
+</div>
